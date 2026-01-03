@@ -20,7 +20,18 @@
 
 ## 🔥 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachin-prajapati-k&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=sachin-prajapati-k&theme=tokyonight)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sachin-prajapati-k&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=sachin-prajapati-k&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=react-dark)
+
+
+
 
 ---
 
