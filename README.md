@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Sachin Prajapati  
 
-🎓 **B.Tech CSE (AI/ML)** at Amity University  
+🎓 **MCA CS (AI/ML)** at Sikkim Manipal University  
 🚀 Passionate about **Artificial Intelligence, Web Development & Data Science**  
-📍 Madhya Pradesh, India  
+📍 Uttar Pradesh, India  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-k-prajapati&show_icons=true&theme=tokyonight)
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-prajapati-k&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-k-prajapati&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 Contribution Graph
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachin-k-prajapati&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachin-prajapati-k&theme=tokyonight)
 
 ---
 
