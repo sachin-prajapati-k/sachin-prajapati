@@ -9,15 +9,18 @@
 ## 📊 GitHub Stats
 ## 🔥 Contribution Graph
 
-![Profile Views](https://komarev.com/ghpvc/?username=sachin-prajapati-k&color=blue)
+## 🔥 Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachin-prajapati-k&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=sachin-prajapati-k&style=flat-square)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sachin-prajapati-k&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sachin-prajapati-k&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=sachin-prajapati-k&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=react-dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight&hide_border=true)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=tokyo-night&hide_border=true)
+
 
 
 ---
