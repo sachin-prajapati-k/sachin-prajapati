@@ -7,16 +7,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-prajapati-k&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight)
-
-![Sachin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=react-dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sachin-prajapati-k&color=blue)
-
----
 ## 🔥 Contribution Graph
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sachin-prajapati-k&color=blue)
@@ -28,6 +18,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-prajapati-k&layout=compact&theme=tokyonight)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sachin-prajapati-k&theme=react-dark)
+
+
+---
+
+
 
 
 
